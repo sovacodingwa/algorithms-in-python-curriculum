@@ -5,7 +5,7 @@
 	"vscode": {
 		"settings": {
 		"python.defaultInterpreterPath": "/usr/local/bin/python",
-		"editor.tabSize": 2,
+		"editor.tabSize": 4,
 		"editor.wordWrap": "on",
 		"files.autoSave": "onWindowChange"
 		},
