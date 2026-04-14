@@ -1,4 +1,4 @@
-# Sova Coding Computing and Algorithms in Python Curriculum
+# Sova Coding Algorithms in Python Curriculum
 
 > **Note:** This curriculum uses third-party practice problems hosted on LeetCode.  
 > The original LeetCode problem statements are not included in this repo.
