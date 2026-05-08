@@ -4,7 +4,7 @@
 # https://leetcode.com/problems/valid-palindrome/
 
 class Solution:
-	def isPalindrome(self, *args):
+	def isPalindrome(self, s: str) -> bool:
 		pass
 
 def run_tests():

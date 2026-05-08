@@ -3,8 +3,10 @@
 # LeetCode 724
 # https://leetcode.com/problems/find-pivot-index/
 
+from typing import List
+
 class Solution:
-	def pivotIndex(self, *args):
+	def pivotIndex(self, nums: List[int]) -> int:
 		pass
 
 def run_tests():

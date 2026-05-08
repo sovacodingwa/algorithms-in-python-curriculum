@@ -3,8 +3,10 @@
 # LeetCode 217
 # https://leetcode.com/problems/contains-duplicate/
 
+from typing import List
+
 class Solution:
-	def containsDuplicate(self, *args):
+	def containsDuplicate(self, nums: List[int]) -> bool:
 		pass
 
 def run_tests():

@@ -3,8 +3,10 @@
 # LeetCode 322
 # https://leetcode.com/problems/coin-change/
 
+from typing import List
+
 class Solution:
-	def coinChange(self, *args):
+	def coinChange(self, coins: List[int], amount: int) -> int:
 		pass
 
 def run_tests():

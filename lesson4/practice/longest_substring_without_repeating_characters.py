@@ -4,7 +4,7 @@
 # https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 class Solution:
-	def lengthOfLongestSubstring(self, *args):
+	def lengthOfLongestSubstring(self, s: str) -> int:
 		pass
 
 def run_tests():

@@ -3,8 +3,10 @@
 # LeetCode 695
 # https://leetcode.com/problems/max-area-of-island/
 
+from typing import List
+
 class Solution:
-	def maxAreaOfIsland(self, *args):
+	def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
 		pass
 
 def run_tests():

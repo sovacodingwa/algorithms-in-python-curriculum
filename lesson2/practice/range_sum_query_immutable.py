@@ -3,11 +3,13 @@
 # LeetCode 303
 # https://leetcode.com/problems/range-sum-query-immutable/
 
+from typing import List
+
 class NumArray:
-	def __init__(self, nums):
+	def __init__(self, nums: List[int]):
 		pass
 
-	def sumRange(self, left, right):
+	def sumRange(self, left: int, right: int) -> int:
 		pass
 
 def run_tests():

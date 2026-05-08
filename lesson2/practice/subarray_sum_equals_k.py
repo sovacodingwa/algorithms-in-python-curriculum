@@ -3,8 +3,10 @@
 # LeetCode 560
 # https://leetcode.com/problems/subarray-sum-equals-k/
 
+from typing import List
+
 class Solution:
-	def subarraySum(self, *args):
+	def subarraySum(self, nums: List[int], k: int) -> int:
 		pass
 
 def run_tests():

@@ -3,8 +3,10 @@
 # LeetCode 198
 # https://leetcode.com/problems/house-robber/
 
+from typing import List
+
 class Solution:
-	def rob(self, *args):
+	def rob(self, nums: List[int]) -> int:
 		pass
 
 def run_tests():

@@ -3,8 +3,10 @@
 # LeetCode 733
 # https://leetcode.com/problems/flood-fill/
 
+from typing import List
+
 class Solution:
-	def floodFill(self, *args):
+	def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
 		pass
 
 def run_tests():

@@ -3,8 +3,10 @@
 # LeetCode 746
 # https://leetcode.com/problems/min-cost-climbing-stairs/
 
+from typing import List
+
 class Solution:
-	def minCostClimbingStairs(self, *args):
+	def minCostClimbingStairs(self, cost: List[int]) -> int:
 		pass
 
 def run_tests():

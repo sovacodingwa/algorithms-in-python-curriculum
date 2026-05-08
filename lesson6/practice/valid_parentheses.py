@@ -4,7 +4,7 @@
 # https://leetcode.com/problems/valid-parentheses/
 
 class Solution:
-	def isValid(self, *args):
+	def isValid(self, s: str) -> bool:
 		pass
 
 def run_tests():

@@ -4,7 +4,7 @@
 # https://leetcode.com/problems/valid-anagram/
 
 class Solution:
-	def isAnagram(self, *args):
+	def isAnagram(self, s: str, t: str) -> bool:
 		pass
 
 def run_tests():

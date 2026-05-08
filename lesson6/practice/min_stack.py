@@ -7,16 +7,16 @@ class MinStack:
 	def __init__(self):
 		pass
 
-	def push(self, val):
+	def push(self, val: int) -> None:
 		pass
 
-	def pop(self):
+	def pop(self) -> None:
 		pass
 
-	def top(self):
+	def top(self) -> int:
 		pass
 
-	def getMin(self):
+	def getMin(self) -> int:
 		pass
 
 def run_tests():

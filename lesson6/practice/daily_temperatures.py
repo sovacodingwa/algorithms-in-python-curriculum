@@ -3,8 +3,10 @@
 # LeetCode 739
 # https://leetcode.com/problems/daily-temperatures/
 
+from typing import List
+
 class Solution:
-	def dailyTemperatures(self, *args):
+	def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
 		pass
 
 def run_tests():

@@ -3,8 +3,10 @@
 # LeetCode 704
 # https://leetcode.com/problems/binary-search/
 
+from typing import List
+
 class Solution:
-	def search(self, *args):
+	def search(self, nums: List[int], target: int) -> int:
 		pass
 
 def run_tests():

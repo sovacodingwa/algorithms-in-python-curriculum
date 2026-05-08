@@ -3,8 +3,10 @@
 # LeetCode 130
 # https://leetcode.com/problems/surrounded-regions/
 
+from typing import List
+
 class Solution:
-	def solve(self, *args):
+	def solve(self, board: List[List[str]]) -> None:
 		pass
 
 def run_tests():

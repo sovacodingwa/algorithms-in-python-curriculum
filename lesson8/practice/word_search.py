@@ -3,8 +3,10 @@
 # LeetCode 79
 # https://leetcode.com/problems/word-search/
 
+from typing import List
+
 class Solution:
-	def exist(self, *args):
+	def exist(self, board: List[List[str]], word: str) -> bool:
 		pass
 
 def run_tests():
